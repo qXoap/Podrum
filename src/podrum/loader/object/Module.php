@@ -20,7 +20,7 @@ abstract class Module
         ));
     }
 
-    protected function getName(): string
+    public function getName(): string
     {
         return $this->name;
     }
