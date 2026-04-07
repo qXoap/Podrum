@@ -1,0 +1,20 @@
+{
+  "name": "xoapp/podrum",
+  "description": "Advanced Staff Utilities for PocketMine-MP 5.0.0",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "xoapp",
+      "email": "xoapp@hornymilf.com"
+    }
+  ],
+  "require": {
+    "pocketmine/pocketmine-mp": "^5.42.1"
+  },
+  "require-dev": {
+    "paroxity/commando": "dev-master",
+    "cooldogedev/libsql": "dev-pm5",
+    "dktapps/pmforms": "dev-master"
+  }
+}

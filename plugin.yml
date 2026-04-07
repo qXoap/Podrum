@@ -1,0 +1,8 @@
+name: Podrum
+main: podrum\PodrumLoader
+api: 5.0.0
+version: 1.0.0
+authors:
+  - Xoapp
+  - Vape
+  - Funao
