@@ -1,0 +1,16 @@
+# Bodrium Configuration
+
+database:
+  provider: "sqlite" # [mysql, sqlite]
+
+  mysql:
+    host: "127.0.0.1"
+    port: 3306
+    username: "root"
+    password: "1234"
+    schema: "data_base"
+    threads: 2
+
+  sqlite:
+    path: "database.db"
+    threads: 1
